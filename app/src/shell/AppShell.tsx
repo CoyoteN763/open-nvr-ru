@@ -400,6 +400,7 @@ export function AppShell() {
             >
               <option value="en">EN — {t('language.english')}</option>
               <option value="fr">FR — {t('language.french')}</option>
+              <option value="ru">RU — Русский</option>
             </select>
           </label>
 
