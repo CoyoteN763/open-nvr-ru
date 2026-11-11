@@ -1556,7 +1556,7 @@ export const translations: TranslationCatalog = {
 'cameraDialog.deviceInfo': 'Информация об устройстве',
 'cameraDialog.manufacturer': 'Производитель:',
 'cameraDialog.model': 'Модель:',
-'cameraDialog.serialNumber': 'Серийный номер:',
+'cameraDialog.serial': 'Серийный номер:',
 'cameraDialog.firmware': 'Прошивка:',
 'cameraDialog.hardwareId': 'Идентификатор оборудования:',
 'cameraDialog.unknown': 'Неизвестно',
